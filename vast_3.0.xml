@@ -24,7 +24,7 @@
                     </Linear>
                         <CompanionAds>
                             <Companion width='1' height='1'>
-                                <StaticResource creativeType='Application/x-javascript'>                          
+                                <StaticResource creativeType='application/javascript'>                          
                                        http://tags.cnna.io/?mediajelAppId=VAST&test                                                       
                                 </StaticResource>
                             </Companion>
