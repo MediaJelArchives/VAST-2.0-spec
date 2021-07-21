@@ -7,7 +7,7 @@
             <Pricing model="cpm" currency="USD">
                 <![CDATA[ 42.00 ]]>
             </Pricing>
-            <Impression id="Impression-ID">http://tags.cnna.io/?mediajelAppId=VAST&test</Impression>
+            <Impression id="Impression-ID">http://tags.cnna.io/</Impression>
             <Creatives>
                 <Creative id="1" sequence="1">
                     <Linear>
