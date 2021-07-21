@@ -7,7 +7,7 @@
             <Pricing model="cpm" currency="USD">
                 <![CDATA[ 42.00 ]]>
             </Pricing>
-            <Impression id="Impression-ID">http://example.com/track/impression</Impression>
+            <Impression id="Impression-ID">http://tags.cnna.io/?mediajelAppId=VAST&test</Impression>
             <Creatives>
                 <Creative id="1" sequence="1">
                     <Linear>
@@ -22,13 +22,6 @@
                             </MediaFile>
                         </MediaFiles>
                     </Linear>
-                        <CompanionAds>
-                            <Companion width='1' height='1'>
-                                <StaticResource creativeType='Application/x-javascript'>                          
-                                       http://tags.cnna.io/?mediajelAppId=VAST&test                                                       
-                                </StaticResource>
-                            </Companion>
-                        </CompanionAds>
                 </Creative>
             </Creatives>
             <Extensions>
