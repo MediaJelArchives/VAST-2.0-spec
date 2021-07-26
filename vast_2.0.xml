@@ -1,0 +1,33 @@
+<VAST version="2.0">
+	<Ad id="proof-of-concept">
+		<InLine>
+		<AdSystem>2.0</AdSystem>
+		<AdTitle>420</AdTitle>
+		<Impression id="Impression pixel">
+		<![CDATA[
+		https://collector.dmp.cnna.io/i?&e=pv&page=vast&url=vast&aid=vast&p=web&tv=no-js-0.1.0
+		]]>
+		</Impression>
+		<Creatives>
+			<Creative>
+				<Linear>
+					<Duration>00:00:30</Duration>
+					<TrackingEvents></TrackingEvents>
+					<VideoClicks>
+					<ClickThrough id="scanscout">
+					<![CDATA[ https://www.mediajel.com/]]>
+					</ClickThrough>
+					</VideoClicks>
+					<MediaFiles>
+						<MediaFile height="396" width="600" bitrate="496" type="video/mp4" delivery="progressive">
+							<![CDATA[https://iab-publicfiles.s3.amazonaws.com/vast/VAST-4.0-Short-Intro.mp4]]>
+						</MediaFile>
+					</MediaFiles>
+				</Linear>
+			</Creative>
+			<Creative>
+			</Creative>
+		</Creatives>
+		</InLine>
+	</Ad>
+</VAST>
